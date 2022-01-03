@@ -1,0 +1,12 @@
+<package>
+  <name>wolf_gazebo_resources</name>
+  <version>0.0.1</version>
+  <description>
+	This package contains gazebo resources such as models and worlds
+  </description>
+  <maintainer email="gennaro.raiola@gmail.com">graiola</maintainer>
+  <license>TODO</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
