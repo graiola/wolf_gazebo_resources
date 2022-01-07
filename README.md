@@ -12,7 +12,7 @@ You can simply add a new world in the `worlds` folder, while the gazebo models c
 
 To launch the world with WoLF:
 
-`roslaunch wb_controller wb_controller_bringup.launch world_name:=new_world`
+`roslaunch wolf_controller wolf_controller_bringup.launch world_name:=new_world`
 
 ### Note:
 
