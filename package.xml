@@ -5,7 +5,9 @@
 	This package contains gazebo resources such as models and worlds
   </description>
   <maintainer email="gennaro.raiola@gmail.com">graiola</maintainer>
-  <license>TODO</license>
+  <author>Gennaro Raiola</author>
+
+  <license>GNU General Public License v3.0</license>
   
   <buildtool_depend>catkin</buildtool_depend>
 
