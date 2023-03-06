@@ -16,46 +16,11 @@ To launch the world with WoLF:
 
 ## Worlds
 
-| :---:        |     :---:      |        :---:  |       :---:  |
-|   <figure>
-		  <img src="imgs/agriculture.jpg" width="200" height="150"  /> 
-		  <figcaption> agriculture </figcaption>
-		  </figure>   |  <figure>
-		  <img src="imgs/building.jpg" width="200" height="150" /> 
-		  <figcaption> building </figcaption>
-		  </figure>    |  <figure>
-		  <img src="imgs/inspection.jpg" width="200" height="150" /> 
-		  <figcaption> inspection </figcaption>
-		  </figure>   |  <figure>
-		  <img src="imgs/maze.jpg" width="200" height="150" /> 
-		  <figcaption> maze </figcaption>
-		  </figure>    |
-| <figure>
-		  <img src="imgs/obstacle_avoidance.jpg" width="200" height="150" /> 
-		  <figcaption> obstacle_avoidance </figcaption>
-		  </figure>    |  <figure>
-		  <img src="imgs/office.jpg" width="200" height="150" /> 
-		  <figcaption> office </figcaption>
-		  </figure>      |  <figure>
-		  <img src="imgs/park_large.jpg" width="200" height="150" /> 
-		  <figcaption> park_large </figcaption>
-		  </figure>       |  <figure>
-		  <img src="imgs/pyramid.jpg" width="200" height="150" /> 
-		  <figcaption> pyramid </figcaption>
-		  </figure>     |
-|  <figure>
-		  <img src="imgs/ruins.jpg" width="200" height="150" /> 
-		  <figcaption> ruins </figcaption>
-		  </figure>  |   <figure>
-		  <img src="imgs/stairs.jpg" width="200" height="150" /> 
-		  <figcaption> stairs </figcaption>
-		  </figure>      |        		  <figure>
-		  <img src="imgs/postoffice.jpg" width="200" height="150" /> 
-		  <figcaption> postoffice </figcaption>
-		  </figure>      |   <figure>
-		  <img src="imgs/rough_terrain.jpg" width="200" height="150" /> 
-		  <figcaption> rough_terrain </figcaption>
-		  </figure>     |
+|   |   |   |   | 
+|:-:|:-:|:-:|:-:|
+| <figure> <img src="imgs/agriculture.jpg" width="200" height="150" /> <figcaption> agriculture </figcaption> </figure> | <figure> <img src="imgs/building.jpg" width="200" height="150" /> <figcaption> building </figcaption> </figure> | <figure> <img src="imgs/inspection.jpg" width="200" height="150" /> <figcaption> inspection </figcaption> </figure> |  <figure> <img src="imgs/maze.jpg" width="200" height="150" /> <figcaption> maze </figcaption> </figure>  |
+| <figure> <img src="imgs/obstacle_avoidance.jpg" width="200" height="150" /> <figcaption> obstacle_avoidance </figcaption> </figure> |  <figure> <img src="imgs/office.jpg" width="200" height="150" />  <figcaption> office </figcaption> </figure>  | <figure> <img src="imgs/park_large.jpg" width="200" height="150" /> <figcaption> park_large </figcaption> </figure> |<figure> <img src="imgs/pyramid.jpg" width="200" height="150" /> <figcaption> pyramid </figcaption> </figure>   | 
+|<figure> <img src="imgs/ruins.jpg" width="200" height="150" /> <figcaption> ruins </figcaption> </figure>  | <figure> <img src="imgs/stairs.jpg" width="200" height="150" /> <figcaption> stairs </figcaption> </figure> | <figure> <img src="imgs/postoffice.jpg" width="200" height="150" /> <figcaption> postoffice </figcaption> </figure> | <figure> <img src="imgs/rough_terrain.jpg" width="200" height="150" /> <figcaption> rough_terrain </figcaption> </figure> | 
 
 ### Note:
 
