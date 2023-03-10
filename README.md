@@ -26,7 +26,7 @@ To launch the world with WoLF:
 
 To be able to load the new models in gazebo you need to append the path to the `GAZEBO_MODEL_PATH`, for example:
 
-`export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/your_path_to/wolf_gazebo_resources/models`
+`export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:$(rospack find wolf_gazebo_resources)/models`
 
 ### Legal notes
 
