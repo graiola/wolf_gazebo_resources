@@ -14,7 +14,6 @@
       <elevation>600</elevation>
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
-    <gravity>0 0 -9.8</gravity>
     <magnetic_field>6e-06 2.3e-05 -4.2e-05</magnetic_field>
     <atmosphere type='adiabatic'/>
     <wind/>
