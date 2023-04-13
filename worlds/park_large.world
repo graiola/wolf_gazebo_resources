@@ -42,9 +42,9 @@
     </scene>
     <spherical_coordinates>
       <surface_model>EARTH_WGS84</surface_model>
-      <latitude_deg>0</latitude_deg>
-      <longitude_deg>0</longitude_deg>
-      <elevation>0</elevation>
+      <latitude_deg>40.79363653428979</latitude_deg>
+      <longitude_deg>14.400506347556597</longitude_deg>
+      <elevation>600</elevation>
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <model name='House 3'>
