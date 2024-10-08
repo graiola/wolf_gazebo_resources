@@ -1,15 +1,18 @@
-cmake_minimum_required(VERSION 3.0.0)
+cmake_minimum_required(VERSION 3.5)
 project(wolf_gazebo_resources)
 
-find_package(catkin REQUIRED)
+# ROS
+find_package(catkin QUIET)
+find_package(ament_cmake QUIET)
 
-
-catkin_package()
+if(${catkin_FOUND})
+    catkin_package()
+elseif(${ament_cmake_FOUND})
+    ament_package()
+endif()
 
 install(DIRECTORY models/
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/models
-  PATTERN ".svn" EXCLUDE)
+  DESTINATION ${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}/models)
 
 install(DIRECTORY worlds/
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/worlds
-  PATTERN ".svn" EXCLUDE)
+  DESTINATION ${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}/worlds)
