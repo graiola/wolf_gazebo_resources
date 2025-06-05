@@ -3,7 +3,7 @@
   <model name="lava_tube">
     <static>true</static>
     <link name="link">
-      <pose>0 0 0 1.570796 0 0</pose>
+      <pose>-10.197400 20.295500 0.000000 1.570796 0.000000 0.000000</pose>
       <collision name="collision">
         <geometry>
           <mesh>
