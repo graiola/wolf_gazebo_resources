@@ -1,6 +1,18 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">
   <world name="default">
+      <plugin
+        filename="ignition-gazebo-physics-system"
+        name="gz::sim::systems::Physics"/>
+      <plugin
+        filename="ignition-gazebo-scene-broadcaster-system"
+        name="gz::sim::systems::SceneBroadcaster"/>
+      <plugin
+        filename="ignition-gazebo-sensors-system"
+        name="gz::sim::systems::Sensors"/>
+      <plugin
+        filename="ignition-gazebo-user-commands-system"
+        name="gz::sim::systems::UserCommands"/>
       <gravity>0 0 -9.81</gravity>
       <scene>
           <shadows>0</shadows>
@@ -71,4 +83,3 @@
     </model>
   </world>
 </sdf>
-
