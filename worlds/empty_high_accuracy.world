@@ -8,9 +8,6 @@
       filename="ignition-gazebo-scene-broadcaster-system"
       name="gz::sim::systems::SceneBroadcaster"/>
     <plugin
-      filename="ignition-gazebo-sensors-system"
-      name="gz::sim::systems::Sensors"/>
-    <plugin
       filename="ignition-gazebo-user-commands-system"
       name="gz::sim::systems::UserCommands"/>
     <physics type='ode'>

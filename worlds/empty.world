@@ -8,9 +8,6 @@
         filename="ignition-gazebo-scene-broadcaster-system"
         name="gz::sim::systems::SceneBroadcaster"/>
       <plugin
-        filename="ignition-gazebo-sensors-system"
-        name="gz::sim::systems::Sensors"/>
-      <plugin
         filename="ignition-gazebo-user-commands-system"
         name="gz::sim::systems::UserCommands"/>
       <gravity>0 0 -9.81</gravity>
