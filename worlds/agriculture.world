@@ -14,6 +14,9 @@
       <elevation>250</elevation>
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
+    <magnetic_field>6e-06 2.3e-05 -4.2e-05</magnetic_field>
+    <atmosphere type='adiabatic'/>
+    <wind/>
     <!-- A global light source -->
     <include>
       <uri>model://sun</uri>
