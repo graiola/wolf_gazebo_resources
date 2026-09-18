@@ -34,7 +34,7 @@
       <real_time_update_rate>1000.0</real_time_update_rate>
 
       <!-- max step size has to be a multiple of the desired task rate -->
-      <max_step_size>0.001</max_step_size>
+      <max_step_size>0.004</max_step_size>
       <real_time_factor>1</real_time_factor>
 
       <ode>
